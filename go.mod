@@ -1,4 +1,4 @@
-module github.com/avitalique/xk6-file
+module github.com/Yeshwanth-Athmakuri/xk6-file
 
 go 1.24.0
 
